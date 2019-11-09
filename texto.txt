@@ -1,0 +1,56 @@
+-> referencias de icones
+
+js icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>
+html icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>
+css icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a>
+java icon made by <a href="https://www.flaticon.com/authors/pixelmeetup" title="Pixelmeetup">Pixelmeetup</a>
+C icon made by <a href="https://www.flaticon.com/authors/pixelmeetup" title="Pixelmeetup">Pixelmeetup</a>
+Python icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a>
+Gmail icon made by <a href="https://www.flaticon.com/authors/pixel-perfect" title="Pixel perfect">Pixel perfect</a>
+Other icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a><br>
+from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+
+
+email = jpalvesl101@gmail.com
+fb = fb.com/jpalvesl
+insta = instragram.com/jpalvesll
+github = github.com/jpalves
+
+>> perto da foto
+João Lima
+Estudante de Engenharia de Computação
+
+
+>> Informações pessoais
+João Pedro Alves de Lima
+20 anos
+Rua florianópolis - 35, Santa Cruz
+Campina Grande, Paraíba - Brasil
+
+
+>> Informações acadêmicas
+- Formação
+2018-Atual
+Curso Superior de Engenharia de em Computação IFPB-CG
+
+- Projetos
+(2018) Processador digital de imagens - Projeto de conlcusão da disciplina Algoritimos e Programação
+(2019) Doom-fire - Projeto pessoal
+(2019) Selection Sort - projeto de conclusão da disciplina Estrutura de Dados e Dlgoritimos
+
+
+
+>> Informações Profissionais
+ - Mini-cursos
+(2018) Elétrica básica - IFPB-CG
+(2019) Git básica e intermediário - Udemy
+(2019) Introdução ao Arduino
+(2019) Introdução ao Web Design
+
+ - Habilidades
+Python
+C
+Java
+CSS
+HTML
+JavaScript
