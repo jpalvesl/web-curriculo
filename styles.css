@@ -1,0 +1,215 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700&display=swap');
+
+body {
+    margin-left: 20px;
+    text-align: justify;
+    background-color: grey;
+    font-family: 'Roboto Slab', Arial, sans-serif;
+}
+
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #515020;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Div que ficara ao lado esquerdo que introduz o participante*/
+div#sobre-participante {
+    width: 25%;
+    display: block;
+    float: left;
+    padding-right: 30px;
+
+}
+
+div#sobre-participante h1{
+    font-size: 30pt;
+    text-align: center;
+}
+
+div#sobre-participante h2{
+    font-size: 22pt;
+    text-align: center;
+}
+
+div#social-contact {
+    text-align: center;
+}
+
+div#social-contact h3 {
+    font-size: 18pt;
+}
+
+p.contact {
+    font-size: 13pt;
+}
+
+img#foto {
+    display: block;
+    width: 150px;
+    border-radius: 100px;
+    margin: auto;
+}
+
+img.icon {
+    width: 70px;
+    padding: 10px;
+}
+
+
+
+/* Seções de informações do lado direito */
+section#informacoes {
+    width: 69%;
+    display: block;
+    float: left;
+    background-color:white;
+    margin-top: -10px;
+    margin-right: 9px;
+    padding-left: 10px;
+    padding-top: 30px;
+}
+
+section#informacoes h3 {
+    text-align: center;
+    font-size: 15pt;
+}
+
+section#informacoes h4 {
+    text-align: center;
+    font-size: 13pt;
+}
+
+section#informacoes p {
+    font-size: 12pt;
+}
+
+/* Criando uma visualização das habilidades */
+ul#skills {
+    width: 500px;
+    margin: 0, auto;
+    padding: 50px;
+    overflow: hidden;
+    list-style: none;
+}
+
+ul#skills li {
+    float: left;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+    border: 5px solid white;
+    background-color: white;
+    box-shadow: 1px 1px 3px rgba(0, 0, 0, .7);
+}
+
+
+ul#skills li#img01 {
+    background: url("images/python.png") no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 200px;
+    background-color: white;
+}
+
+ul#skills li#img01:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#skills li#img02 {
+    background: url("images/c.png") no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 200px;
+    background-color: white;
+}
+
+ul#skills li#img02:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#skills li#img03 {
+    background: url("images/java.png") no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 200px;
+    background-color: white;
+}
+
+ul#skills li#img03:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#skills li#img04 {
+    background: url("images/css-3.png") no-repeat;;
+    background-position: 50% 50%;
+    background-size: 200px 200px;
+    background-color: white;
+}
+
+ul#skills li#img04:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#skills li#img05 {
+    background: url("images/html-5.png") no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 200px;
+    background-color: white;
+}
+
+ul#skills li#img05:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#skills li#img06 {
+    background: url("images/javascript.png") no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 200px;
+    background-color: white;
+}
+
+ul#skills li#img06:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#skills li span {
+    opacity: 0;
+    color: white;
+    font-size: 9pt;
+    text-shadow: 1px 1px 1px black;
+    background-color: rgba(0, 0, 0, .3);
+    line-height: 370px;
+    padding: 5px;
+}
+
+
+ul#skills li:hover {
+    -webkit-transform: scale(1.5);
+    -webkit-transition: all 0.35s;
+}
+
+ul#skills li:hover span {
+    opacity: 1;
+}
+
+
+/* configurações do rodapé com os creditos aos criadores das imagens usadas */
+footer {
+    clear: both;
+    border-top: 1px solid #606060;
+}
+
+footer {
+    text-align: center;
+}
+
+
